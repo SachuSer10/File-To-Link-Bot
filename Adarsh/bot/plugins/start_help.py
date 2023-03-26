@@ -230,22 +230,22 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='https://t.me/kwicbotupdates'>𝗞𝗪𝗜𝗖 𝗛𝗜𝗚𝗛 𝗦𝗣𝗘𝗘𝗗 𝗕𝗢𝗧</a></b>
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/kwicbotupdates'>𝗞𝗪𝗜𝗖𝗕𝗢𝗧 𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/kwic2002'>𝗞𝗪𝗜𝗖</a></b>
-┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
+┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='https://t.me/'MovieFlixbotupdates>Fɪʟᴇ Tᴏ Lɪɴᴋ Bᴏᴛ</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/kwicbotupdates'>MᴏᴠɪᴇFʟɪx Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ</a></b>
+┣⪼<b>Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/MichaelAnjoottiTG'>🇮🇳 𝐌𝐢𝐜𝐡𝐚𝐞𝐥 𝐀𝐧𝐣𝐨𝐨𝐭𝐭𝐢 𝐓𝐆</a></b>
+┣⪼<b>sᴇʀᴠᴇʀ : ᴠᴩꜱ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://github.com/kwicfiletolinkbot'>𝗞𝗪𝗜𝗖𝗕𝗢𝗧𝗦</a></b>
-┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/MoviesNowV2'>𝙼𝚘𝚟𝚒𝚎𝚜𝙽𝚘𝚠𝚅2</a></b>
+┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ</a></b>
+┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/Mallumoviesgroup7'>𝙼ovie Group</a></b>
 ┃
-<b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
+<b>╰━━━━━━━〔Pʟᴇᴀꜱᴇ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/kwicbotupdates"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/MoviesNowV2")],
-                [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴𝙱𝙾𝚃 💌 ", url="https://t.me/KWICVER2bot")]
+                [InlineKeyboardButton("⚒️ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚒️", url="https://t.me/movieflixbotupdates"), InlineKeyboardButton("📡 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📡", url="https://t.me/Mallumoviesgroup7")],
+                [InlineKeyboardButton("⚙️ 𝙼𝙾𝚅𝙸𝙴𝙱𝙾𝚃 ⚙️ ", url="https://t.me/ThomasShelbyMovieBot")]
             ]
         )
     )
